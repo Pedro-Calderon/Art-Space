@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="vincent_1">La noche Estrellada</string>
+    <string name="vincent_1_year">Junio de 1889</string>
+    <string name="vincent_2">Campo de trigo con cipreses</string>
+    <string name="vincent_2_year">Julio de 1889</string>
+    <string name="vincent_3">Raíces de árbol</string>
+    <string name="vincent_3_year">Julio de 1890</string>
+    <string name="vincent_4">Los Girasoles</string>
+    <string name="vincent_4_year">Agosto de 1888</string>
+</resources>
